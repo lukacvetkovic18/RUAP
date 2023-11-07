@@ -1,1 +1,1 @@
-Pozdrav iz aplikacije od Luka Cvetković
+print("Pozdrav iz aplikacije od Luke Cvetkovića, sada imamo iksice")
