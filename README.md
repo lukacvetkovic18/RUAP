@@ -1,4 +1,1 @@
-# RUAP
-# RUAP
-# RUAP
-# RUAP
+„Moj repozitorij za kolegij RUAP“
